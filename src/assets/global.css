@@ -1,0 +1,24 @@
+html,body,#app{
+    height: 100vh;
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+div.submit{
+    margin-top: 10px;
+    height: 50px;
+    line-height: 50px;
+    margin-right: 45%;
+    margin-left: 45%;
+    text-align: center;
+    border: 4px solid;
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+div.submit:hover{
+    color: #666;
+    cursor: pointer;
+}
+
